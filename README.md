@@ -24,6 +24,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src='http://g.recordit.co/msc4NmepXE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 Twitter is a basic twitter app to read your tweets.
 
